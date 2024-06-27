@@ -8,7 +8,7 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="WmJSONAPI">*.*</value>
+    <value name="WmUnitTestManager">*.*</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
